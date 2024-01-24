@@ -14,3 +14,8 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
+
+How to add a link
+======
+
+[I'm an inline-style link](https://www.google.com)
